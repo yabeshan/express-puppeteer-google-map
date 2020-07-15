@@ -1,0 +1,13 @@
+{
+  "name": "express-puppeteer-google-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+		"start": "node ./src/index.js"
+	},
+  "dependencies": {
+    "express": "^4.16.4",
+    "puppeteer": "^5.0.0"
+  }
+}
